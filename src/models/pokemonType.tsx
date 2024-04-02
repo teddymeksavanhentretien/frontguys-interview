@@ -1,0 +1,1 @@
+export type PokemonType = 'Feu' | 'Eau' | 'Vol';
